@@ -12,7 +12,7 @@ theme: /
 
     state: Bye
         intent!: /пока
-        a: Пока пgggлокаььььь1111111222222
+        a: Пока пgggлокаььььь111111122222233333
 
     state: NoMatch
         event!: noMatch
