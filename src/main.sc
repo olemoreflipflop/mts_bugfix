@@ -2,4 +2,4 @@ theme: /
 
     state1: Echo 1
         event!: noMatch
-        a: Вы сказаasdasfsdfsfsdfsfdasdasdsdли: {{$parseTree.text}}
+        a: Вы сказаasdasfsdfsfsfghnjmdfsfdasdasdsdли: {{$parseTree.text}}
