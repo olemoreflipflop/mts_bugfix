@@ -1,5 +1,5 @@
 theme: /
 
-    state: Echo 1
+    state1: Echo 1
         event!: noMatch
         a: Вы сказаasdasfsdfsfsdfsfdasdasdsdли: {{$parseTree.text}}
