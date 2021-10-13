@@ -2,4 +2,4 @@ theme: /
 
     state: Echo 1
         event!: noMatch
-        a: Вы сказали: {{$parseTree.text}}
+        a: Вы сказаasdasdasdasdsdли: {{$parseTree.text}}
